@@ -1,0 +1,13 @@
+name_english toki pona
+lang to
+author:
+  name Andre Masella
+  email andre at masella no-ip org
+copyright LGPL
+version 0.50-0
+charset iso8859-1
+soundslike none
+alias tp tokipona
+dict:
+  name tp
+  add tp
